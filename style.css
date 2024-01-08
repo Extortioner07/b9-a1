@@ -26,12 +26,14 @@ body{
     font-size: 80px;
 }
 .section{
-    margin-top: 120px;
+margin-top: 120px;
     text-align: center;
+    margin: auto;
 }
 .text{
     color: red;
     font-size: 60px;
+    margin-top: 120px;
 }
 .text2{
     color: red;
@@ -55,4 +57,31 @@ body{
     display: block;
     align-items: center;
     border-radius: 20px;
+    display: flex;
+    margin-top: 150px;
+    gap: 130px;
+    padding: auto;
+}
+.cel{
+    color: aliceblue;
+    font-size: 50px;
+}
+.cont{
+    color: aliceblue;
+    font-size: 20px;
+}
+.textarea2{
+    padding-left: 120px;
+}
+.link{
+    text-decoration: none;
+    font-size: 25px;
+    color: aliceblue;
+    padding-left: 70px;
+    padding-top: 50px;
+}
+.ing{
+    height: 400px;
+    width: 300px;
+    padding-top: 20px;
 }
