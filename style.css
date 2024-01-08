@@ -124,8 +124,9 @@ margin-top: 120px;
     margin: auto;
     align-items: center;
     width: 1600px;
-    height: 7500px;
+height: auto;
     display: block;
+    height: auto;
 }
 .moye{
     text-align: center;
@@ -135,6 +136,82 @@ margin-top: 120px;
     background-image: url(resources/Rectangle\ 2.png);
     background-repeat: no-repeat;
     background-position: bottom;
-    padding-left: 140px;
-    gap: 122px;
+    background-size: contain;
+    gap: 30.2%;
+    margin: auto;
+}
+.products{
+    margin: auto;
+    width: 1600px;
+    height: auto;
+    margin-top: 140px;
+}
+.items{
+   display: flex;
+   gap: 33px;
+   margin-top: 80px;
+}
+.items2{
+    display: flex;
+    gap: 33px;
+    margin-top: 20px;
+}
+.mail{
+    background-color: rgb(252, 224, 224);;
+    margin: auto;
+    height: 500px;
+    width: 1600px;
+    border-radius: 20px;
+    margin-top: 140px;
+}
+.note{
+    display: flex;
+    margin: auto;
+    padding-top: 80px;
+}
+.email{
+    display: flex;
+    margin: auto;
+    margin-left: 40%;
+}
+.g{
+    border: 0;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 20px;
+    padding: 8px 12px;
+}
+.b{
+    border: 0;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius:  10px;
+    color: aliceblue;
+    background-color: red;
+    font-size: 17px;
+}
+.footer{
+    background-color: rgba(7, 2, 17, 1);
+    color: aliceblue;
+    margin: auto;
+}
+.foot{
+    display: flex;
+   justify-content: space-between;
+   padding: 0 2%;
+   padding-top: 3%;
+}
+.foot2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.footer1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2%;
+    padding-bottom: 3%;
+}
+.p1{
+    text-decoration: none;
+    color: aliceblue;
 }
