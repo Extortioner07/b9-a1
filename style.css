@@ -203,7 +203,7 @@ height: auto;
     color: aliceblue;
     margin: auto;
     margin-top: 140px;
-    max-width: 1900px;
+    width: 100%;
     height: auto;
 }
 .foot{
