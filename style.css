@@ -200,6 +200,7 @@ height: auto;
     background-color: rgba(7, 2, 17, 1);
     color: aliceblue;
     margin: auto;
+    margin-top: 140px;
 }
 .foot{
     display: flex;
