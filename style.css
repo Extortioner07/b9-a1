@@ -18,12 +18,17 @@ body{
   text-align: center;
   color: rgb(255, 254, 254);
   padding-top: 150px;
+  font-weight: 800;
 }
 .newy{
     font-size: 35px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
 }
 .newy2{
     font-size: 80px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
 }
 .section{
 margin-top: 120px;
@@ -65,6 +70,8 @@ margin-top: 120px;
 .cel{
     color: aliceblue;
     font-size: 50px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
 }
 .cont{
     color: aliceblue;
@@ -137,7 +144,7 @@ height: auto;
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
-    gap: 30.2%;
+    gap: 29.5%;
     margin: auto;
 }
 .products{
